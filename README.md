@@ -1,8 +1,4 @@
-<p>
- <img src="![print](https://github.com/maicomsate/calculadora/assets/159037217/eb4b87ce-a382-4ec7-9a6a-ea69fe488e5b)
-" alt="Projeto Final" width="100%" />
-</p>
-![print](https://github.com/maicomsate/calculadora/assets/159037217/71534b96-14e9-47e4-8fe5-00b5e5ea09fc)
+
 
 ## 🖥️ Projeto
 
