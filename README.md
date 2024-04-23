@@ -18,7 +18,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 ## 🎨 Layout
 
 Você pode visualizar o layout do projeto através
-[desse link](https://github.com/marciliossalgado) e (https://github.com/maicomsate)
+[desse link](https://github.com/marciliossalgado) e (https://maicomsate.github.io/calculadora/)
 
 ### 🧑‍💻 Creditos
 
