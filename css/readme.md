@@ -1,7 +1,7 @@
 README
 
 <p>
- <img src="../img/print.jpg" alt="Projeto Final" width="100%" />
+ <img src="/img/print.jpg" alt="Projeto Final" width="100%" />
 </p>
 
 ## 🖥️ Projeto
