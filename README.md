@@ -1,5 +1,5 @@
 
-
+<img src="/img/Projeto Final.jpg" alt="Projeto Final" width="100%" />
 ## 🖥️ Projeto
 
 Esse é um projeto final Web desenvolvido no curso de Dev Fullstack da Infinity School com o professor Luan Oliveira.
